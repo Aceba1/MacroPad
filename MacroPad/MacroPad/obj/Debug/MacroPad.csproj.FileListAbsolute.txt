@@ -1,0 +1,20 @@
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\bin\Debug\MacroPad.exe.config
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\bin\Debug\MacroPad.exe
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\bin\Debug\MacroPad.pdb
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\obj\Debug\MacroPad.csprojResolveAssemblyReference.cache
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\obj\Debug\MacroPad.Form1.resources
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\obj\Debug\MacroPad.Properties.Resources.resources
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\obj\Debug\MacroPad.csproj.GenerateResource.Cache
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\obj\Debug\MacroPad.csproj.CoreCompileInputs.cache
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\obj\Debug\MacroPad.exe
+C:\Users\arnceb20\Desktop\MacroPad\MacroPad\obj\Debug\MacroPad.pdb
+C:\VS Projects\MacroPad\MacroPad\bin\Debug\MacroPad.exe.config
+C:\VS Projects\MacroPad\MacroPad\bin\Debug\MacroPad.exe
+C:\VS Projects\MacroPad\MacroPad\bin\Debug\MacroPad.pdb
+C:\VS Projects\MacroPad\MacroPad\obj\Debug\MacroPad.csprojResolveAssemblyReference.cache
+C:\VS Projects\MacroPad\MacroPad\obj\Debug\MacroPad.Form1.resources
+C:\VS Projects\MacroPad\MacroPad\obj\Debug\MacroPad.Properties.Resources.resources
+C:\VS Projects\MacroPad\MacroPad\obj\Debug\MacroPad.csproj.GenerateResource.cache
+C:\VS Projects\MacroPad\MacroPad\obj\Debug\MacroPad.csproj.CoreCompileInputs.cache
+C:\VS Projects\MacroPad\MacroPad\obj\Debug\MacroPad.exe
+C:\VS Projects\MacroPad\MacroPad\obj\Debug\MacroPad.pdb
